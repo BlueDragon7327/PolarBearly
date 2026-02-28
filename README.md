@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧊❄️ PolarBearly 🐻‍❄️ ❄️🧊
+# ❄️ PolarBearly 🐻‍❄️
 
 <p>
   <img src="https://img.shields.io/badge/status-in%20progress-blue?style=for-the-badge" />
